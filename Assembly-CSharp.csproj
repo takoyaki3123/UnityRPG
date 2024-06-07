@@ -93,6 +93,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\PostProcessingComponent.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\TaaComponent.cs" />
+    <Compile Include="Assets\Scenes\Interactable.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />

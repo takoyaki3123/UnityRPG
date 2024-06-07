@@ -404,6 +404,7 @@
 "Assets/Environment/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
 "Assets/PlayerController.cs"
 "Assets/PlayerMotor.cs"
+"Assets/Scenes/Interactable.cs"
 -langversion:9.0
 /deterministic
 /optimize+
