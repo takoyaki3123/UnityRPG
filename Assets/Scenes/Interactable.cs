@@ -45,7 +45,9 @@ public class Interactable : MonoBehaviour
     }
     void OnDrawGizmosSelected() //補助線を作る
     {
-
+        if(interactionTransform == null)
+            interactionTransform = transform;
+        
         // transform -> object position
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(interactionTransform.position, radius);

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\assets\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\playermotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|c:\\users\\aher5\\onedrive\\\u684C\u9762\\unity\\3d\\rpg project\\rpg project\\assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|c:\\users\\aher5\\onedrive\\\u684C\u9762\\unity\\3d\\rpg project\\rpg project\\assets\\scenes\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|c:\\users\\aher5\\onedrive\\\u684C\u9762\\unity\\3d\\rpg project\\rpg project\\assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\itempickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\assets\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\assets\\scenes\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\assets\\script\\charateranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charateranimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|c:\\users\\aher5\\onedrive\\\u684C\u9762\\unity\\3d\\rpg project\\rpg project\\assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F39681-6FA3-F19C-C611-FFFDEF6ADD1D}|Assembly-CSharp.csproj|solutionrelative:assets\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\PlayerMotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +42,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Inventory.cs",
+              "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Inventory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:26:09.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Item.cs",
+              "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Item.cs",
+              "RelativeToolTip": "Assets\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:56:14.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ItemPickup.cs",
+              "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\ItemPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickup.cs",
+              "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\ItemPickup.cs",
+              "RelativeToolTip": "Assets\\ItemPickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:31:09.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharaterAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Script\\CharaterAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharaterAnimator.cs",
+              "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Script\\CharaterAnimator.cs",
+              "RelativeToolTip": "Assets\\Script\\CharaterAnimator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:10:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Scenes\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Interactable.cs",
               "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\Scenes\\Interactable.cs",
               "RelativeToolTip": "Assets\\Scenes\\Interactable.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADwvw4AAAAaAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:19:40.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:19:40.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\CameraController.cs",
@@ -51,25 +117,22 @@
               "RelativeToolTip": "Assets\\CameraController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAADwvx4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T08:04:32.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T08:04:32.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PlayerMotor.cs",
               "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\PlayerMotor.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMotor.cs",
               "ToolTip": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\PlayerMotor.cs",
               "RelativeToolTip": "Assets\\PlayerMotor.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T06:41:59.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T06:41:59.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\aher5\\OneDrive\\\u684C\u9762\\unity\\3D\\RPG Project\\RPG Project\\Assets\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
@@ -77,8 +140,7 @@
               "RelativeToolTip": "Assets\\PlayerController.cs",
               "ViewState": "AQIAADEAAAAAAAAAAAAowEcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:45:43.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T08:45:43.513Z"
             }
           ]
         }
