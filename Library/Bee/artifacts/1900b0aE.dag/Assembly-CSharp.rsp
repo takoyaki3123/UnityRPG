@@ -403,6 +403,8 @@
 "Assets/Environment/PostProcessing/Runtime/Utils/RenderTextureFactory.cs"
 "Assets/Environment/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
 "Assets/Inventory.cs"
+"Assets/InventorySlot.cs"
+"Assets/InventoryUI.cs"
 "Assets/Item.cs"
 "Assets/ItemPickup.cs"
 "Assets/Scenes/Interactable.cs"
