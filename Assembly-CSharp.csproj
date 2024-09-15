@@ -89,6 +89,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\PostProcessingModel.cs" />
     <Compile Include="Assets\Script\CharaterAnimator.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\VignetteComponent.cs" />
+    <Compile Include="Assets\EquipmentManager.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\VignetteModel.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\FxaaComponent.cs" />
@@ -110,6 +111,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\DitheringModel.cs" />
+    <Compile Include="Assets\Equipment.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
