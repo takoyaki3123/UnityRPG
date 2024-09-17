@@ -10,11 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cc87d2805e19512448090d43b46c953a, type: 3}
-  m_Name: Sword of Destiny
+  m_Name: Default Shirt
   m_EditorClassIdentifier: 
-  name: Sword of Destiny
-  icon: {fileID: 21300000, guid: cc96307cdbce3044a9788e3590e32c66, type: 3}
-  isDefaultItem: 0
-  equipSlot: 3
+  name: Default Shirt
+  icon: {fileID: 0}
+  isDefaultItem: 1
+  equipSlot: 1
+  mesh: {fileID: 1014194998250678129, guid: 7a5a30fde137ba0418e883a41d148143, type: 3}
+  coveredMeshRegion: 
   armorModifier: 0
-  damageModifier: 3
+  damageModifier: 0

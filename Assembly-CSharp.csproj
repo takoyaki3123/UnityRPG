@@ -74,6 +74,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\GrainComponent.cs" />
+    <Compile Include="Assets\Script\Helper\ConvertToRegularMesh.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\UserLutComponent.cs" />
